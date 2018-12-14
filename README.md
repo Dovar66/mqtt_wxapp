@@ -1,2 +1,2 @@
 # mqtt_wxapp
-修改自eclipse/mqtt，供小程序中使用mqtt
+基于paho.mqtt.javascript项目的v1.1.0版本修改
