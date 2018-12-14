@@ -1,2 +1,3 @@
-# mqtt_wxapp
-基于paho.mqtt.javascript项目的v1.1.0版本修改
+基于paho.mqtt.javascript项目的v1.1.0版本进行修改。
+  
+  【新增】发送消息时可以设置发送成功和发送失败的监听
